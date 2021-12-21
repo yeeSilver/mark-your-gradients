@@ -45,7 +45,7 @@
     │       └── main.css
     ├── img
     │   ├── css-convention.jpg
-    │   └── smaple.jpg
+    │   └── sample.jpg
     └── js
         └── main.js
 ```
